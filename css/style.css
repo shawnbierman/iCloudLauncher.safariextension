@@ -1,0 +1,36 @@
+body {
+    background-color : #90adbe;
+    overflow         : hidden;
+    font-family      : HelveticaNeue-Thin;
+    font-size        : 9px;
+    white-space      : nowrap;
+}
+
+table {
+    margin : 0 auto;
+}
+
+td {
+    text-align : center;
+    padding    : 4px;
+}
+
+td div {
+    width : 46px;
+}
+
+.textLabel {
+    -webkit-font-smoothing : antialiased;
+    color                  : rgb(255, 255, 255);
+    cursor                 : pointer;
+    display                : inline;
+    font-family            : 'Helvetica Neue', sans-serif;
+    font-size              : 9px;
+    font-weight            : 300;
+    height                 : auto;
+    line-height            : 18px;
+    text-align             : center;
+    text-decoration        : none;
+    text-shadow            : rgba(0, 0, 0, 0) 0px 0px 0px;
+    width                  : auto;
+}
